@@ -1,1 +1,2 @@
 Git practice on staging, committing and pushing data to git
+When using git, you must first add the file, then commit the file, then push the file.
