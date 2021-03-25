@@ -1,0 +1,1 @@
+Git practice on staging, committing and pushing data to git
